@@ -166,5 +166,3 @@ Rekomendasi ini didukung oleh **validasi statistik** (Chi-Square & Mann-Whitney)
 - **Google Colab** — environment analisis
 
 ---
-
-## 📂 Struktur Repository
